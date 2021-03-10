@@ -1,5 +1,5 @@
 ---
-page_type: sample
+page_type: sample zzz
 languages:
 - nodejs
 - javascript
